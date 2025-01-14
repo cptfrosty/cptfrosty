@@ -1,3 +1,8 @@
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=cptfrosty">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/cptfrosty?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 # About me
 Hi there :hand:, I'm Alexey
 
