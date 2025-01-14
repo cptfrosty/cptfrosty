@@ -22,3 +22,11 @@ Hi there :hand:, I'm Alexey
 
 # GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptfrosty&show_icons=true&theme=nord)
+
+## 3D Contribution Calendar 📅
+<br>
+<p align='center'>
+<img src="./profile-3d-contrib/profile-night-view.svg">
+</p>
+<hr>
+<br>
