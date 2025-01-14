@@ -15,4 +15,5 @@ Hi there :hand:, I'm Alexey
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
 </div>
 
+# GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptfrosty&show_icons=true&theme=nord)
